@@ -1,6 +1,3 @@
-Here you go — this is the full `README.md` in one copy-pasteable block.
-
-````markdown
 # Developmental Agent Memory
 
 An open-source research prototype for testing a simple but powerful hypothesis:
